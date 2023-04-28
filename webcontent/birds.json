@@ -2,8 +2,8 @@
     "birds": [
         {
             "name": "DenDen",
-            "age": "2",
-            "type": "Parrot",
+            "age": "10",
+            "type": "isda",
             "colour": "grey",
             "distance": "500m",
             "likes": "skritches"
